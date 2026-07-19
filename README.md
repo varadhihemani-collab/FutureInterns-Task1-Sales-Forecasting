@@ -1,2 +1,0 @@
-
-Linear Regression forecasting project.
