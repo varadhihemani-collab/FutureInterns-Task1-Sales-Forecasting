@@ -41,4 +41,4 @@ git clone https://github.com/varadhihemani-collab/FutureInterns-Task1-Sales-Fore
 The model forecasts future sales trends to support demand forecasting and inventory management.
 
 ## Author
-**Hemani Varadi**
+**Hemani Varadhi**
